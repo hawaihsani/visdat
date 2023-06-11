@@ -5,7 +5,7 @@ from PIL import Image
 
 st.set_page_config(page_title='Final Project')
 st.header('Final Project - Visualisasi Data')
-st.subheader('Adinda Arwa Salsabil - 130120..')
+st.subheader('Adinda Arwa Salsabil - 1301204011')
 st.subheader('Ihsani Hawa Arsytania - 1301204105')
 
 ### --- LOAD DATAFRAME
